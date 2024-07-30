@@ -8,6 +8,7 @@
 
 package labs.pm.data;
 
+import java.io.Serializable;
 import java.math.BigDecimal;
 import java.math.RoundingMode;
 import java.time.LocalDate;
@@ -23,7 +24,7 @@ import java.util.Objects;
  * @version 4.0
  * @author amz
  **/
-public sealed class Product implements Reteable<Product> permits Food,Drink {
+public sealed class Product implements Reteable<Product>, Serializable permits Food,Drink {
     private int id;
     private String name;
     /**

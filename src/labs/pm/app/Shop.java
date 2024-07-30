@@ -37,12 +37,9 @@ public class Shop {
 
         productManager.printProductReport(101);
 
-        try {
-            productManager.parseReview("140, 4, nice hot cup of Tea");
-        }
-        catch (ProductManagerException e) {
-            Throwable cause = e.getCause();
-        }
+        productManager.parseReview("101, 4, nice hot cup of Tea");
+
+
 
         productManager.reviewProduct(101,Rating.NOT_RATED, "nice hot cup of Tea");
         productManager.reviewProduct(101,Rating.NOT_RATED, "lorem ipsom");
@@ -50,6 +47,9 @@ public class Shop {
         productManager.reviewProduct(101,Rating.NOT_RATED, "nice hot cup of Tea");
         productManager.reviewProduct(101,Rating.FOUR_STAR, "nice hot cup of Tea");
         productManager.printProductReport(101);
+
+        productManager.dumpData();
+        productManager.restoreData();
 
         Product p2 = productManager.createProduct(102,"Coffee",BigDecimal.valueOf(1.99), Rating.FOUR_STAR);
 
