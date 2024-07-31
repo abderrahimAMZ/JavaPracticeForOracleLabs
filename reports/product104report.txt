@@ -1,3 +1,4 @@
-Cookie, Precio : $3.99, Calification: ★★★☆☆, Consumase antes de: 7/30/24
-Resenas: ★★★☆☆	Just another cookie
-Resenas: ★★★☆☆	Ok
+Cookie, Price : $3.99, Rating: ★★★☆☆, Best Before: 7/31/24
+Review: ★★★☆☆	Just another cookie
+Review: ★★★☆☆	Ok
+★★☆☆	Ok

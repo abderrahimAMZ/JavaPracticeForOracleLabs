@@ -1,5 +1,6 @@
-Chocolate, Precio : $2.50, Calification: ★★☆☆☆, Consumase antes de: 8/2/24
-Resenas: ★★★☆☆	Better then cookie
-Resenas: ★★☆☆☆	Too sweet
-Resenas: ★★☆☆☆	Too bitter
-Resenas: ★☆☆☆☆	I don't get it!
+Chocolate, Price : $2.50, Rating: ★★☆☆☆, Best Before: 8/3/24
+Review: ★★★☆☆	Better then cookie
+Review: ★★☆☆☆	Too sweet
+Review: ★★☆☆☆	Too bitter
+Review: ★☆☆☆☆	I don't get it!
+�	I don't get it!

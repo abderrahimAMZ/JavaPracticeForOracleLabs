@@ -1,6 +1,7 @@
-Tea, Precio : $1.99, Calification: ★☆☆☆☆, Consumase antes de: 7/30/24
-Resenas: ★★★★☆	nice hot cup of Tea
-Resenas: ☆☆☆☆☆	nice hot cup of Tea
-Resenas: ☆☆☆☆☆	lorem ipsom
-Resenas: ☆☆☆☆☆	nice hot cup of Tea
-Resenas: ☆☆☆☆☆	nice hot cup of Tea
+Tea, Price : $1.99, Rating: ★☆☆☆☆, Best Before: 7/31/24
+Review: ★★★★☆	nice hot cup of Tea
+Review: ☆☆☆☆☆	nice hot cup of Tea
+Review: ☆☆☆☆☆	lorem ipsom
+Review: ☆☆☆☆☆	nice hot cup of Tea
+Review: ☆☆☆☆☆	nice hot cup of Tea
+ice hot cup of Tea
